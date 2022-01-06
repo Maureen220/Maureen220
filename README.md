@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Maureen
-- I’m interested in data analytics and coding. 
-- I’m currently taking a boot camp in data analytics. 
+- I’m interested in data analytics and coding.  
 - I’m looking to collaborate on new projects and ideas with members in that field. 
 
 <!---
