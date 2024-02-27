@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Maureen
-- I’m interested in data engineering and programming.  
+- I’m interested in Data Engineering and programming.  
 - I’m looking to collaborate on new projects and ideas with members in that field. 
 
 <!---
